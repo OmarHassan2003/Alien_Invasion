@@ -1,0 +1,51 @@
+Td    ID    Tj    Df    Dd    Db
+
+10    3     6     4     0     4
+13    2     2     11    0     11
+21    10    21    0     0     0
+23    5     16    0     7     7
+25    2004  6     2     17    19
+26    2003  6     1     19    20
+28    2010  21    1     6     7
+28    12    24    4     0     4
+29    2002  2     0     27    27
+30    2007  17    0     13    13
+31    2014  25    2     4     6
+31    2013  25    1     5     6
+33    2012  24    2     7     9
+34    2008  17    4     13    17
+35    2005  16    3     16    19
+
+
+For Earth Army ->
+Total Earth Soldier = 7
+Total Infected Earth Soldier %= 42.8571
+Total Earth Gunnery = 1
+Total Earth Tank = 2
+Total Earth Healing Unit = 4
+Percentage of units healed successfully = 10Destructed Earth Soldier Percentage = 0
+Destructed Earth Gunnery Percentage = 100
+Destructed Earth Tank Percentage = 0
+Destructed Earth Healing Unit Percentage = 100
+Total Destructed Earth Units Percentage = 35.7143
+Average of Df = 3.8
+Average of Dd = 1.4
+Average of Db = 5.2
+Df/Db% = 73.0769%
+Dd/Db% = 26.9231%
+
+
+For Alien Army ->
+Total Alien Soldier = 9
+Total Alien Monster = 1
+Total Alien Drone = 4
+Destructed Alien Soldier Percentage = 100
+Destructed Alien Monster Percentage = 100
+Destructed Alien Drone Percentage = 0
+Total Destructed Alien Units Percentage = 71.4286
+Average of Df = 1.6
+Average of Dd = 12.7
+Average of Db = 14.3
+Df/Db% = 11.1888%
+Dd/Db% = 88.8112%
+War ended with a tie.
